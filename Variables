@@ -1,4 +1,6 @@
-#Variables
+#required
+
+
 APP_ID = Get this value from my.telegram.org
 API_HASH = Get this value from my.telegram.org
 LEGEND_STRING = Get this by using Repl.it or from terminal
