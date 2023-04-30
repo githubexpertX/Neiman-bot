@@ -2,7 +2,3 @@
 
 Anything
 
-
-#lol
-
-Naah
